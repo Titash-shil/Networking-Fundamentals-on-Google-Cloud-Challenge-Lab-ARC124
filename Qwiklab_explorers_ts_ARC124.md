@@ -1,6 +1,6 @@
 # Networking Fundamentals on Google Cloud: Challenge Lab #ARC124
-# Like, comment, share & Don't forget to subscribe[Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN)
-## Run in cloudshsell
+# Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
+## Run in cloudshsell 
 ```cmd
 export ZONE=
 ```
@@ -112,3 +112,5 @@ gcloud compute forwarding-rules create http-content-rule \
 --target-http-proxy=http-lb-proxy \
 --ports=80
 ```
+# Congratulations ..!! You completed the lab shortly... 😃💯
+# Thank you for visiting.... :)
